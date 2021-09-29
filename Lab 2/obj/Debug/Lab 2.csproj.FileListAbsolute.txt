@@ -1,0 +1,10 @@
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\bin\Debug\Lab 2.exe.config
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\bin\Debug\Lab 2.exe
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\bin\Debug\Lab 2.pdb
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\obj\Debug\Lab_2.Form1.resources
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\obj\Debug\Lab 2.exe
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 2\obj\Debug\Lab 2.pdb
