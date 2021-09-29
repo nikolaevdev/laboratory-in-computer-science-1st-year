@@ -1,0 +1,13 @@
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\bin\Debug\Lab 1.exe.config
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\bin\Debug\Lab 1.exe
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\bin\Debug\Lab 1.pdb
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\bin\Debug\ru\Lab 1.resources.dll
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\obj\Debug\Lab 1.csproj.AssemblyReference.cache
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\obj\Debug\Lab_1.lab1.resources
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\obj\Debug\Lab_1.lab1.ru.resources
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\obj\Debug\ru\Lab 1.resources.dll
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\obj\Debug\Lab 1.exe
+G:\Dev\VS\Study\laboratory-in-computer-science-1st-year\Lab 1\obj\Debug\Lab 1.pdb
